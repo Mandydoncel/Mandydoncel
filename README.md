@@ -1,10 +1,10 @@
-Olá! 
+Olá! // Hello!
 
-Eu sou a Amanda Doncel! Muito prazer! 🤓
+Eu sou a Amanda Doncel! Muito prazer! // I'm Amanda Donce! Nice to meet you!🤓
 
 
-- 🔭 I’m currently working on crescer e melhorar como desenvolvedora 👩🏻‍🎓
-- 🌱 I’m currently learning Html5 | CSS3 | Java | React | SCRUM | API's REST | Spring Boot | MySQL 🖥
+- 🔭 I’m currently working on be a better Full Stack Development 👩🏻‍🎓
+- 🌱 Web Full Stack Development Student at Generation Brazil
 - 😄 Pronouns: Ela / Dela
 - 🌎 Santo André, São Paulo - Brazil
 
@@ -27,9 +27,8 @@ Eu sou a Amanda Doncel! Muito prazer! 🤓
   <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
   
-  ##
   
-   
+## Contact   
 <div> 
   <a href="https://www.youtube.com/channel/UCj1AIKK2P4OtcI0FSkb5NoQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/mandy_soto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
