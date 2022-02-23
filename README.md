@@ -1,6 +1,6 @@
 Olá! // Hello!
 
-Eu sou a Amanda Doncel! Muito prazer! // I'm Amanda Donce! Nice to meet you!🤓
+Eu sou a Amanda! Muito prazer! // I'm Amanda! Nice to meet you!🤓
 
 
 - 🔭 I’m currently working on be a better Full Stack Development 👩🏻‍🎓
