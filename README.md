@@ -3,7 +3,7 @@ Olá! // Hello!
 Eu sou a Amanda! Muito prazer! // I'm Amanda! Nice to meet you!🤓
 
 
-- 🔭 I’m currently working on be a better Full Stack Development 👩🏻‍🎓
+- 🔭 I’m currently working on be a better Full Stack Developer 👩🏻‍🎓
 - 🌱 Web Full Stack Development Student at Generation Brazil
 - 😄 Pronouns: Ela / Dela
 - 🌎 Santo André, São Paulo - Brazil
