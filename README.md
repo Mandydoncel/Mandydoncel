@@ -1,11 +1,13 @@
-Olá! // Hello!
+Hello World!
 
-Eu sou a Amanda! Muito prazer! // I'm Amanda! Nice to meet you!🤓
+I'm Amanda! Nice to meet you!🤓
 
 
-- 🔭 I’m currently working on be a better Full Stack Developer 👩🏻‍🎓
-- 😄 Pronouns: Ela / Dela
+- 🔭 I’m currently working on be a better Front end Developer 👩🏻‍🎓
 - 🌎 Santo André, São Paulo - Brazil
+- ✈ A traveler on my free time! Just like to chill and explore new places, and meet some new people. 
+
+Welcome to my code world ✨
 
 <div align="center">
   <a href="https://github.com/Mandydoncel">
