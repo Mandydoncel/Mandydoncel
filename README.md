@@ -1,9 +1,7 @@
-Hello World!
-
 I'm Amanda! Nice to meet you!🤓
 
 
-- 🔭 I’m currently working on be a better Front end Developer 👩🏻‍🎓
+- 🔭 I’m currently working on logistics.
 - 🌎 Santo André, São Paulo - Brazil
 - ✈ A traveler on my free time! Just like to chill and explore new places, and meet some new people. 
 
